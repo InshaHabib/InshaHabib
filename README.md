@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inshahabib&label=Profile%20views&color=0e75b6&style=flat" alt="inshahabib" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python and React**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Python and Web Projects**
 
-- 💬 Ask me about **Python,HTML and CSS**
+- 💬 Ask me about **Python,HTML,CSS,React,thailwind CSS and chatbot integration**
 
 - 📫 How to reach me **inshahabib939@gmail.com**
 
