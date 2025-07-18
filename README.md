@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Python and Web Projects**
 
-- 💬 Ask me about **Python,HTML,CSS,React,thailwind CSS and chatbot integration**
+- 💬 Ask me about **Python,HTML,CSS,React,Tailwind CSS and chatbot integration**
 
 - 📫 How to reach me **inshahabib939@gmail.com**
 
