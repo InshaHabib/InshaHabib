@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Insha Habib</h1>
-<h3 align="center">A passionate Frontend & Python developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend & Python Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="450" src="https://www.zdnet.com/a/img/resize/6b9026e6afffb3371d3e7a809b3415fdb60aca18/2023/09/27/927ce048-607b-424e-b0a7-db3ff5975bc0/stack-social-python-deal.jpg?auto=webp&width=1280">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inshahabib&label=Profile%20views&color=0e75b6&style=flat" alt="inshahabib" /> </p>
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Python and Web Projects**
 
-- 💬 Ask me about **Python,HTML,CSS,React,Tailwind CSS and chatbot integration**
+- 💬 Ask me about **Python,HTML,CSS,JS,React,Tailwind CSS and Chatbot Integration**
 
 - 📫 How to reach me **inshahabib939@gmail.com**
 
