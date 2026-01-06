@@ -81,7 +81,7 @@ const insha = {
 <td width="45%" valign="middle">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%"/>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Learning Coding" width="100%"/>
 </div>
 
 </td>
