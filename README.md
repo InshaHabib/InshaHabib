@@ -205,7 +205,7 @@ A real-time cryptocurrency tracking dashboard with live price updates and portfo
     <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/InshaHabib/Crypto-Tracker-Dashboard">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+    <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -264,9 +264,6 @@ Intelligent chatbot with NLP capabilities.
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
 ## 📊 GitHub Statistics
 
@@ -444,7 +441,9 @@ Intelligent chatbot with NLP capabilities.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<br/>
+<br>
+<br>
+
 **Thank you for visiting my profile!** ⭐
 
 *If you enjoy my work, feel free to star ⭐ my repositories  
