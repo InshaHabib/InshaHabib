@@ -200,12 +200,12 @@ A real-time cryptocurrency tracking dashboard with live price updates and portfo
 - ✅ Portfolio analytics
 - ✅ Responsive design
 
-<p>
-  <a href="https://insha-cryptotrackerdashboard.netlify.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+<p align="left">
+  <a href="https://insha-cryptotrackerdashboard.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="live demo" />
   </a>
-  <a href="https://github.com/InshaHabib/Crypto-Tracker-Dashboard">
-    <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/InshaHabib/Crypto-Tracker-Dashboard" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
   </a>
 </p>
 
@@ -223,7 +223,11 @@ Full-stack MERN application for sharing and discovering recipes.
 - ✅ Search & filter
 - ✅ Rating system
 
-[![Live Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/InshaHabib)
+<p align="left">
+  <a href="https://github.com/InshaHabib" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -242,7 +246,11 @@ Student-friendly CGPA calculator with semester tracking.
 - ✅ Local storage
 - ✅ Export to PDF
 
-[![Live Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/InshaHabib)
+<p align="left">
+  <a href="https://github.com/InshaHabib" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+  </a>
+</p>
 
 </td>
 <td width="50%">
@@ -258,7 +266,11 @@ Intelligent chatbot with NLP capabilities.
 - ✅ REST API
 - ✅ Easy integration
 
-[![Live Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/InshaHabib)
+<p align="left">
+  <a href="https://github.com/InshaHabib" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+  </a>
+</p>
 
 </td>
 </tr>
