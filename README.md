@@ -51,30 +51,29 @@ const insha = {
     location: "Pakistan 🇵🇰",
     role: "MERN-Stack Developer",
     education: "BS Software Engineering",
-    currentFocus: "MERN Stack & Python Development",
+    currentFocus: "MERN Stack & Python Developer",
     
     techStack: {
         frontend: ["React", "Tailwind CSS", "JavaScript"],
         backend: ["Node.js", "Express.js", "Python"],
-        database: ["MongoDB", "Firebase"],
+        database: ["MongoDB","MongoDB Compass", "Firebase"],
         mobile: ["Android Studio", "Java"],
         tools: ["VS Code", "Git", "GitHub"],
-        ai: ["Claude", "Cursor", "GitHub Copilot","Emergent"]
+        ai: ["Claude", "Cursor AI", "Trae AI", "GitHub Copilot","Emergent"]
     },
     
     currentlyLearning: ["Advanced Python", "Android"],
     interests: ["Web Apps", "AI Integration"],
     
-    askMeAbout: ["React", "Node.js", "MongoDB","Python"],
-    funFact: "I turn coffee into code! ☕💻"
+    askMeAbout: ["React", "Node.js", "MongoDB","Python","Tailwind CSS","JavaScript"],
 };
 ```
 
 ### 🎯 Quick Highlights
 
-- 🔭 Working on **MERN-Stack Web Applications**
-- 🌱 Learning **Advanced Python** & **Android**
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**,**Python**
+- 🔭 Building **Full MERN Stack Applications**
+- 🌱 Integrating **AI & Chatbot Solutions** 
+- 💬 Exploring **Advanced Python Development** 
 - 📫 Reach me: **inshahabib939@gmail.com**
 
 </td>
@@ -108,10 +107,11 @@ const insha = {
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Backend & Database
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass"/>
 </p>
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Mobile & Tools
@@ -133,14 +133,13 @@ const insha = {
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
   <img src="https://img.shields.io/badge/Trae_AI-4A90E2?style=for-the-badge&logoColor=white" alt="Trae AI"/>
   <img src="https://img.shields.io/badge/Emergent_AI-7B68EE?style=for-the-badge&logoColor=white" alt="Emergent AI"/>
-  <img src="https://img.shields.io/badge/Manus_AI-FF1493?style=for-the-badge&logoColor=white" alt="Manus AI"/>
 </p>
 
 </div>
 
 ---
 
-## 💪 Skills & Expertise
+## 👩‍💻 Skills & Expertise
 
 <div align="center">
 
@@ -177,6 +176,103 @@ const insha = {
 
 ---
 
+## 🎓 Career Journey
+
+<div align="center">
+
+### 🌟 Education & Experience Timeline
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Education
+
+#### 🎓 BS Software Engineering
+**Institute:** Foundation University Islamabad   
+**Duration:** 2021 - 2025 
+
+**Highlights:**
+- 💻 Focus: MERN-Stack Development & AI
+- 🌟 Key Courses: Data Structures, Algorithms, Web Development, Database Systems
+- 🎯 Projects: Multiple MERN stack & Python applications
+
+<br>
+
+#### 🎓 Intermediate / F.Sc
+**Institute:** Allama Iqbal College Naushera  
+**Duration:** 2018 - 2020
+
+**Highlights:**
+- 📘 Subjects: Mathematics, Physics, and Chemistry
+
+<br>
+
+#### 🎓 Matriculation / SSC
+**Institute:** Allama Iqbal School Naushera  
+**Duration:** 2016 - 2018 
+
+**Highlights:**
+- 📘 Subjects: Science Stream
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Experience
+
+#### 🚀 MERN Stack Developer | Team Leader  
+**Company:** CodeCelix, NASTP Rawalpindi  
+**Duration:** Nov 2025 – Present  
+
+**Responsibilities & Achievements:**
+- 👥 Led a team of 5 developers and managed task distribution  
+- ⚡ Optimized application performance, reducing load time by 60%  
+- 🧩 Implemented reusable components and clean coding practices  
+
+<br>
+
+#### 🚀 Frontend Web Developer Intern  
+**Company:** U Devs  
+**Duration:** Oct 2025 – Dec 2025  
+
+**Responsibilities & Achievements:**
+- 🎨 Developed 6+ responsive UI components for production use  
+- 📏 Improved UI consistency and code quality by following best practices  
+- 🔗 Integrated REST APIs into React applications  
+
+<br>
+
+#### 🚀 Final Year Project – E-commerce Platform (Industry-Based)  
+**Company:** Ebryx Pvt. Ltd.  
+**Role:** MERN Stack Developer  
+**Duration:** Oct 2024 – June 2025  
+
+**Responsibilities & Achievements:**
+- 🛒 Built a MERN-stack e-commerce platform using MERN, Tailwind CSS, and Firebase  
+- 👥 Implemented role-based dashboards for Admin, Buyer, and Seller  
+- 🔐 Developed secure authentication and APIs using Node.js and JWT  
+- 🤖 Integrated chatbot and real-time features  
+
+<br>
+
+#### 🚀 Web Developer Intern  
+**Company:** Disruptive Brain Pvt. Ltd.  
+**Duration:** July 2023 – Sep 2023  
+
+**Responsibilities & Achievements:**
+- 🌐 Created responsive landing pages for multiple clients  
+- 📱 Improved website layout and cross-browser compatibility  
+- 💼 Gained hands-on experience in real-world web projects  
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -190,119 +286,99 @@ const insha = {
 <td width="50%">
 
 ### 💱 Crypto Tracker Dashboard
-**Tech:** React • Tailwind CSS • JavaScript
+**Tech:** React • Tailwind CSS • JavaScript  
 
 A real-time cryptocurrency tracking dashboard with live price updates and portfolio management.
 
 **Features:**
-- ✅ Real-time crypto prices
-- ✅ Interactive charts
-- ✅ Portfolio analytics
-- ✅ Responsive design
+- ✅ Real-time cryptocurrency price tracking  
+- ✅ Interactive charts and data visualization  
+- ✅ Portfolio performance analytics  
+- ✅ Fully responsive UI  
 
 <p align="left">
-  <a href="https://insha-cryptotrackerdashboard.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
-  </a>
-
+  <a href="https://insha-cryptotrackerdashboard.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://github.com/InshaHabib/Crypto-Tracker-Dashboard" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</p>
+
+<br>
+
+### 🎓 CGPA Calculator
+**Tech:** HTML • CSS • JavaScript  
+
+A web application designed to calculate cumulative GPA for students.
+
+**Features:**
+- ✅ Semester-wise GPA calculation  
+- ✅ Instant cumulative GPA calculation  
+- ✅ User-friendly interface  
+- ✅ Responsive design  
+
+<p align="left">
+  <a href="https://cgpa-calculator-web.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/InshaHabib/CGPA-Calculator" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </p>
 
 </td>
 <td width="50%">
 
-### 🍲 Recipe Sharing Platform
-**Tech:** React • Node.js • MongoDB • Express
+### 🤖 AI Business Automation
+**Tech:** React • Tailwind CSS • JavaScript  
 
-Full-stack MERN application for sharing and discovering recipes.
+AI-powered web application designed to automate business workflows and productivity tasks.
 
 **Features:**
-- ✅ User authentication
-- ✅ CRUD operations
-- ✅ Search & filter
-- ✅ Rating system
+- ✅ AI-based task automation  
+- ✅ Interactive and modern UI  
+- ✅ Workflow optimization tools  
+- ✅ Responsive and scalable design  
 
 <p align="left">
-  <a href="https://github.com/InshaHabib" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+  <a href="https://ai-based-business-automation.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/InshaHabib/AI-Based-Business-Automation-Web" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </p>
 
-</td>
-</tr>
+<br   >
 
-<tr>
-<td width="50%">
+### 📊 PollHub
+**Tech:** React • Node.js • Express • MongoDB • Socket.io • Chart.js • Tailwind CSS  
 
-### 📊 CGPA Calculator
-**Tech:** HTML • CSS • JavaScript
-
-Student-friendly CGPA calculator with semester tracking.
+A real-time platform for creating and managing polls and surveys.
 
 **Features:**
-- ✅ GPA calculation
-- ✅ Semester tracking
-- ✅ Local storage
-- ✅ Export to PDF
+- ✅ Real-time poll creation and voting  
+- ✅ Live results visualization using charts  
+- ✅ User authentication and session management  
+- ✅ Responsive UI with modern design  
 
 <p align="left">
-  <a href="https://github.com/InshaHabib" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+ <a href="https://pollinghub.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="28" />
   </a>
-</p>
-
-</td>
-<td width="50%">
-
-### 🤖 AI Chatbot Integration
-**Tech:** Python • Flask • NLP
-
-Intelligent chatbot with NLP capabilities.
-
-**Features:**
-- ✅ Natural language processing
-- ✅ Context awareness
-- ✅ REST API
-- ✅ Easy integration
-
-<p align="left">
-  <a href="https://github.com/InshaHabib" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+  <a href="https://github.com/InshaHabib/PollHub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </p>
 
 </td>
 </tr>
 </table>
-
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📈 Profile Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=InshaHabib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="GitHub Stats" width="100%"/>
-
-</td>
-<td width="50%" align="center">
-
-### 📊 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InshaHabib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" alt="Top Languages" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ### 🔥 Contribution Streak
 
@@ -335,14 +411,11 @@ Intelligent chatbot with NLP capabilities.
 - 🐍 **Advanced Python**  
   Programming fundamentals, backend logic & automation
   
-- 📱 **Android Development**  
-  Building mobile applications using Java & Kotlin
-  
-- 🌐 **MERN Stack Mastery**  
+- 🌐 **MERN Stack Development**  
   MongoDB, Express.js, React & Node.js for full-stack development
 
-- ☁️ **Cloud Technologies**  
-  AWS and cloud deployment fundamentals
+- 📱 **Android Development**  
+  Building mobile applications using Java
 
 </td>
 <td width="45%" valign="top">
@@ -357,62 +430,17 @@ Intelligent chatbot with NLP capabilities.
 
 ---
 
-## 🎯 Goals & Vision
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🚀Short-Term Goals
-
-✦ Secure Full-Stack Developer role  
-✦ Master Python frameworks  
-✦ Build production-ready apps  
-✦ Contribute to open source  
-
-</td>
-<td width="34%" valign="top" align="center">
-
-### 💡My Interests
-
-✦ Modern web development  
-✦ AI & chatbot integration  
-✦ Mobile app development  
-✦ UI/UX design principles  
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🎓Long-Term Vision
-
-✦ Work on large-scale projects  
-✦ Become Full-Stack expert  
-✦ Lead development teams  
-✦ Build innovative products  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 💼 What I Offer
 
 <div align="center">
 
-```text
-✦ Strong foundation in MERN Stack development
-✦ Python development 
-✦ Experience building responsive web applications
-✦ Mobile app development with Android Studio
-✦ Clean, maintainable, and well-documented code
-```
+✦ Strong foundation in MERN Stack development  
+✦ Python development  
+✦ Experience building responsive web applications  
+✦ Clean, maintainable, and well-documented code  
 
 </div>
+
 
 ---
 
@@ -423,16 +451,16 @@ Intelligent chatbot with NLP capabilities.
 ### 🌐 Reach Out To Me
 
 <p>
-  <a href="https://www.linkedin.com/in/insha-habib-414441316/">
+  <a href="https://www.linkedin.com/in/insha-habib-414441316">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:inshahabib939@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://inshahabib-portfolio.netlify.app/">
+  <a href="https://inshahabib-dev.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.instagram.com/tech.with.insha/">
+  <a href="https://www.instagram.com/tech.with.insha">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
