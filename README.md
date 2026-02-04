@@ -65,7 +65,7 @@ const insha = {
     currentlyLearning: ["Advanced Python", "Android"],
     interests: ["Web Apps", "AI Integration"],
     
-    askMeAbout: ["React", "Node.js", "MongoDB", "Python", "Tailwind CSS", "JavaScript"],
+    askMeAbout: ["MERN Stack", "Python", "Tailwind CSS", "JavaScript"],
 };
 ```
 
