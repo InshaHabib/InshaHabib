@@ -349,7 +349,7 @@ A real-time platform for creating and managing polls and surveys.
 
 <img src="https://streak-stats.demolab.com/?user=InshaHabib&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=bf91f3&fire=ff6b9d&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" alt="GitHub Streak" width="60%"/>
 
-<br>
+<br><br>
 
 ### 🏆 GitHub Trophies
 
