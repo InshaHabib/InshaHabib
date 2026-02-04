@@ -100,10 +100,7 @@ const insha = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
-  CSS
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>CSS
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 
 </p>
@@ -138,43 +135,6 @@ const insha = {
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github Copilot"/>
   <img src="https://img.shields.io/badge/Emergent_AI-7B68EE?style=for-the-badge&logoColor=white" alt="Emergent AI"/>
 </p>
-
-</div>
-
----
-
-## 👩‍💻 Skills & Expertise
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Skills
-```text
-⚛️ React.js              ████████████████░░  90%
-🎨 Tailwind CSS          ████████████████░░  90%
-💛 JavaScript            ███████████████░░░  85%
-🌐 HTML/CSS              ████████████████░░  90%
-🔄 REST APIs             ██████████████░░░░  80%
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Skills
-```text
-🟢 Node.js               ███████████████░░░  85%
-⚡ Express.js            ███████████████░░░  85%
-🐍 Python                ████████████░░░░░░  70%
-🗄️ MongoDB               ███████████████░░░  85%
-📱 Android Studio        ██████████░░░░░░░░  60%
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
