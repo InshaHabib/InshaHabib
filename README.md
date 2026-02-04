@@ -177,99 +177,6 @@ const insha = {
 
 ---
 
-## 🎓 Career Journey
-
-<div align="center">
-
-### 🌟 Education & Experience Timeline
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Education
-
-#### 🎓 BS Software Engineering
-**Institute:** [Your University Name]  
-**Duration:** 2021 - 2025 (Expected)  
-**Status:** Currently Pursuing  
-
-**Highlights:**
-- 🏆 CGPA: [Your CGPA]
-- 💻 Focus: Full-Stack Development & AI
-- 🌟 Key Courses: Data Structures, Algorithms, Web Development, Database Systems
-- 🎯 Projects: Multiple MERN stack & Python applications
-
-<br>
-
-### 💼 Experience
-
-#### 🚀 Freelance Web Developer
-**Role:** Full-Stack Developer  
-**Duration:** 2023 - Present  
-**Type:** Freelance / Remote
-
-**Achievements:**
-- ✅ Developed 5+ full-stack web applications
-- ✅ Specialized in MERN stack development
-- ✅ Built real-time crypto tracking dashboard
-- ✅ Created recipe sharing platform with authentication
-- ✅ Integrated AI tools for enhanced productivity
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 Skills & Achievements
-
-#### 💡 Technical Skills Acquired
-**2024:**
-- ⚛️ Mastered React.js & Modern Frontend
-- 🗄️ MongoDB & Database Design
-- 🐍 Started Python Development
-- 🤖 AI Tools Integration (Claude, Cursor, Copilot)
-
-**2023:**
-- 📱 Android App Development
-- 🎨 Tailwind CSS & Responsive Design
-- ⚡ Node.js & Express.js Backend
-- 🔐 User Authentication Systems
-
-**2022:**
-- 💻 JavaScript & Web Fundamentals
-- 🌐 HTML5 & CSS3
-- 📊 Git & Version Control
-- 🎯 Problem Solving & DSA
-
-<br>
-
-### 🎯 Certifications & Learning
-- 📜 Self-taught MERN Stack Developer
-- 🎓 Online courses in Full-Stack Development
-- 💡 Continuous learning through practice projects
-- 🤝 Active in developer communities
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 📈 Growth Trajectory
-
-```
-2021 → Started BS Software Engineering
-2022 → Learned Web Development Fundamentals
-2023 → Built First Full-Stack Applications
-2024 → Advanced MERN Stack & Python Projects
-2025 → Ready for Professional Opportunities! 🚀
-```
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -295,7 +202,9 @@ A real-time cryptocurrency tracking dashboard with live price updates and portfo
 
 <p align="left">
   <a href="https://insha-cryptotrackerdashboard.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="live demo" />
+    <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
+  </a>
+
   </a>
   <a href="https://github.com/InshaHabib/Crypto-Tracker-Dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
