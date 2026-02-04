@@ -56,7 +56,7 @@ const insha = {
     techStack: {
         frontend: ["React", "Tailwind CSS", "JavaScript"],
         backend: ["Node.js", "Express.js", "Python"],
-        database: ["MongoDB","MongoDB Compass", "Firebase"],
+        database: ["MongoDB", "MongoDB Compass", "Firebase"],
         mobile: ["Android Studio", "Java"],
         tools: ["VS Code", "Git", "GitHub"],
         ai: ["Claude", "Cursor AI", "Trae AI", "GitHub Copilot","Emergent"]
@@ -65,7 +65,7 @@ const insha = {
     currentlyLearning: ["Advanced Python", "Android"],
     interests: ["Web Apps", "AI Integration"],
     
-    askMeAbout: ["React", "Node.js", "MongoDB","Python","Tailwind CSS","JavaScript"],
+    askMeAbout: ["React", "Node.js", "MongoDB", "Python", "Tailwind CSS", "JavaScript"],
 };
 ```
 
@@ -128,10 +128,10 @@ const insha = {
 
 <p>
   <img src="https://img.shields.io/badge/Claude_AI-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github Copilot"/>
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
   <img src="https://img.shields.io/badge/Trae_AI-4A90E2?style=for-the-badge&logoColor=white" alt="Trae AI"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github Copilot"/>
   <img src="https://img.shields.io/badge/Emergent_AI-7B68EE?style=for-the-badge&logoColor=white" alt="Emergent AI"/>
 </p>
 
@@ -298,7 +298,7 @@ A real-time cryptocurrency tracking dashboard with live price updates and portfo
 
 <p align="left">
   <a href="https://insha-cryptotrackerdashboard.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="28" />
+     <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
   </a>
   <a href="https://github.com/InshaHabib/Crypto-Tracker-Dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
@@ -320,7 +320,7 @@ A web application designed to calculate cumulative GPA for students.
 
 <p align="left">
   <a href="https://cgpa-calculator-web.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
   </a>
   <a href="https://github.com/InshaHabib/CGPA-Calculator" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
@@ -343,7 +343,7 @@ AI-powered web application designed to automate business workflows and productiv
 
 <p align="left">
   <a href="https://ai-based-business-automation.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="28" />
+     <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
   </a>
   <a href="https://github.com/InshaHabib/AI-Based-Business-Automation-Web" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
@@ -365,7 +365,7 @@ A real-time platform for creating and managing polls and surveys.
 
 <p align="left">
  <a href="https://pollinghub.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LIVE&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
   </a>
   <a href="https://github.com/InshaHabib/PollHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
@@ -375,6 +375,8 @@ A real-time platform for creating and managing polls and surveys.
 </td>
 </tr>
 </table>
+
+---
 
 ## 📊 GitHub Statistics
 
