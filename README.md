@@ -59,7 +59,7 @@ const insha = {
         database: ["MongoDB", "MongoDB Compass", "Firebase"],
         mobile: ["Android Studio", "Java"],
         tools: ["VS Code", "Git", "GitHub"],
-        ai: ["Claude", "Cursor AI", "Trae AI", "GitHub Copilot","Emergent"]
+        ai: ["Claude", "Cursor AI", "Trae AI", "GitHub Copilot", "Emergent AI"]
     },
     
     currentlyLearning: ["Advanced Python", "Android"],
@@ -301,7 +301,7 @@ A real-time cryptocurrency tracking dashboard with live price updates and portfo
      <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
   </a>
   <a href="https://github.com/InshaHabib/Crypto-Tracker-Dashboard" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" >
   </a>
 </p>
 
@@ -323,7 +323,7 @@ A web application designed to calculate cumulative GPA for students.
     <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
   </a>
   <a href="https://github.com/InshaHabib/CGPA-Calculator" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" >
   </a>
 </p>
 
@@ -346,7 +346,7 @@ AI-powered web application designed to automate business workflows and productiv
      <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
   </a>
   <a href="https://github.com/InshaHabib/AI-Based-Business-Automation-Web" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" >
   </a>
 </p>
 
@@ -368,7 +368,7 @@ A real-time platform for creating and managing polls and surveys.
     <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" alt="Live"/>
   </a>
   <a href="https://github.com/InshaHabib/PollHub" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&color=333333&logoColor=white&style=for-the-badge" height="28" />
+   <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" >
   </a>
 </p>
 
