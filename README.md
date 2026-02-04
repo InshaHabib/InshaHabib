@@ -59,7 +59,7 @@ const insha = {
         database: ["MongoDB", "MongoDB Compass", "Firebase"],
         mobile: ["Android Studio", "Java"],
         tools: ["VS Code", "Git", "GitHub"],
-        ai: ["Claude", "Cursor AI", "Trae AI", "GitHub Copilot", "Emergent AI"]
+        ai: ["Claude", "Cursor AI", "GitHub Copilot", "Emergent AI"]
     },
     
     currentlyLearning: ["Advanced Python", "Android"],
