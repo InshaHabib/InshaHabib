@@ -345,27 +345,6 @@ A real-time platform for creating and managing polls and surveys.
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📈 Profile Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=InshaHabib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="GitHub Stats" width="100%"/>
-
-</td>
-<td width="50%" align="center">
-
-### 📊 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InshaHabib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" alt="Top Languages" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ### 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com/?user=InshaHabib&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=bf91f3&fire=ff6b9d&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" alt="GitHub Streak" width="60%"/>
