@@ -355,7 +355,7 @@ A real-time platform for creating and managing polls and surveys.
 
 <img src="https://github-profile-trophy.vercel.app/?username=InshaHabib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="GitHub Trophies" width="90%"/>
 
-<br>
+<br><br>
 
 ### 📈 Contribution Graph
 
