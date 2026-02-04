@@ -349,13 +349,13 @@ A real-time platform for creating and managing polls and surveys.
 
 <img src="https://streak-stats.demolab.com/?user=InshaHabib&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=bf91f3&fire=ff6b9d&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" alt="GitHub Streak" width="60%"/>
 
-<br><br>
+<br>
 
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=InshaHabib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="GitHub Trophies" width="90%"/>
 
-<br><br>
+<br>
 
 ### 📈 Contribution Graph
 
