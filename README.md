@@ -5,9 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&height=100&lines=💻+Building+Modern+Web+Applications;⚛️+MERN+Stack+Development;🐍+Python+Developer;🚀+Creating+Scalable+Solutions;✨+Open+for+New+Opportunities!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+Building+Modern+Web+Applications;%E2%9A%9B%EF%B8%8F+MERN+Stack+Development;%F0%9F%90%8D+Python+Developer;%F0%9F%9A%80+Creating+Scalable+Solutions;%E2%9C%A8+Open+for+New+Opportunities" />
 </p>
 
 <!-- Badges -->
