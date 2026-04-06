@@ -184,9 +184,9 @@ const insha = {
 
 ### 💼 Experience
 
-#### 🚀 MERN Stack Developer | Team Leader  
+#### 🚀 Web Developer | Team Leader
 **Company:** CodeCelix, NASTP Rawalpindi  
-**Duration:** Nov 2025 – Present  
+**Duration:** Nov 2025 – March 2026  
 
 **Responsibilities & Achievements:**
 - 👥 Led a team of 5 developers and managed task distribution  
